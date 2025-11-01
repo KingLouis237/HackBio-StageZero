@@ -28,7 +28,7 @@ The next frontier of biological data science will integrate multiple modalities 
 
 Future bioinformatics will also emphasize reproducibility, open-source software, and equitable access to data and computational resources. As cloud computing and federated data systems evolve, collaborative international projects will become the norm. Ultimately, biology will depend as much on algorithmic and computational literacy as it does on experimental expertise.
 
-## References (AMA Style)
+## References
 
 - 1\. Lander ES, et al. Initial sequencing and analysis of the human genome. Nature. 2001;409(6822):860-921.
 - 2\. National Human Genome Research Institute (NHGRI). DNA Sequencing Costs: Data. Accessed 2025. <https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data>
@@ -40,4 +40,5 @@ Future bioinformatics will also emphasize reproducibility, open-source software,
 - 8\. National Institutes of Health. NIH Policy for Data Management and Sharing. 2023. <https://sharing.nih.gov/data-management-and-sharing-policy>
 - 9\. Regev A, et al. The Human Cell Atlas: toward a reference map of all human cells. Nature. 2017;550(7677):451-453.
 - 10\. Kumari P, et al. Advances in long-read single-cell transcriptomics. Brief Bioinform. 2024;25(3):bbae091.
+
 - 11\. Thiel W, et al. Generative AI in biology: opportunities and open challenges. Nat Rev Mol Cell Biol. 2024;25:547-560.
